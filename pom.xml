@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.javarush</groupId>
+    <groupId>io.sancta-sanctorum</groupId>
     <artifactId>jira</artifactId>
     <version>1.0</version>
     <name>JiraRush</name>
